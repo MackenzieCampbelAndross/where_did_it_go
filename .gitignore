@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+target/
+__pycache__/
+*.pyc
+
+# Environment & Local Secrets
+.env
+.env.local
+*.local
+
+# Build Outputs
+dist/
+build/
+out/
+*.exe
+*.dll
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
